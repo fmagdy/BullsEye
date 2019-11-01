@@ -2,9 +2,7 @@
 //  AboutAuthorViewController.swift
 //  BullsEye
 //
-//  Created by Ray Wenderlich on 6/13/18.
-//  Copyright © 2018 Ray Wenderlich. All rights reserved.
-//
+
 
 import UIKit
 
